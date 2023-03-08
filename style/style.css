@@ -881,6 +881,9 @@ body{
     color: #BABABA;
     line-height: 42px;
 }
+.column .footer-widget ul li a:hover{
+    color: #009DFF;
+}
 .copyright-text{
     padding-top: 20px;
     padding-bottom: 20px;
