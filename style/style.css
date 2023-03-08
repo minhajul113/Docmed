@@ -1015,11 +1015,14 @@ body{
         display: block;
     }
     .section6 .emargency-container .overly .emr-btn{
-        margin-bottom: 25px;
+        margin: 24px;
     }
     .section6 .emargency-container .overly .emr-btn a{
         font-size: 10px;
         padding: 5px 10px;
+    }
+    .section6 .emargency-container .overly .emr-info{
+        margin: 30px;
     }
     .section6 .emargency-container .overly .emr-info p{
         margin-bottom: 13px;
